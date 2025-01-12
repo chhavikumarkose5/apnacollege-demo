@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first git reposertory.
+This is my first git repository.
+author-chhavi kumar kose
